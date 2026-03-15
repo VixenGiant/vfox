@@ -1,6 +1,7 @@
-# CMSC207 Web Programming Project
-
-This project is a simple single-page personal website.
+CMSC207 Mini-Project
+A Requirement for Diploma in Computer Science
+2nd Semester AY2025-2026
+Simple yet an Avenue for Self-introduction in a very fun way.
 
 Technologies used:
 - HTML
@@ -8,7 +9,6 @@ Technologies used:
 - JavaScript
 
 Features:
-- Navigation menu with anchor links
-- Hover effects
-- Interactive button displaying a fun fact
-- Responsive design using media queries
+- Using Javascript: Know Random Facts About Me!
+- Navigation menu clicks towards Web Sections
+- Hover effects and simple animations
