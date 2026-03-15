@@ -53,8 +53,12 @@ button:hover{
     background:#0056b3;
 }
 
-.hobby{
-    margin-bottom:20px;
+.hobby-img{
+    width:100%;
+    max-width:400px;
+    height:auto;
+    margin:10px 0;
+    border-radius:8px;
 }
 
 footer{
